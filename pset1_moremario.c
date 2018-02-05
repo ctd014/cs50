@@ -3,7 +3,6 @@
 
 // prompts user for heights
 // only accepts valid heights per direction specifications
-
 int main(void)
 {
     int n;
