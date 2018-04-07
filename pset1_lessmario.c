@@ -1,3 +1,5 @@
+//This program prints out a half-pyramid of a specified height.
+
 #include <cs50.h>
 #include <stdio.h>
 
