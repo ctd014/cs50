@@ -1,3 +1,5 @@
+//This program calculates the minimum number of coins required to give a user change.
+
 //import libraries
 #include <cs50.h>
 #include <math.h>
