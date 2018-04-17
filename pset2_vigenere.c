@@ -40,7 +40,8 @@ int main(int argc, string argv[])
 
     printf("ciphertext: ");
 
-//Count the number of non-alphabetical characters there have been for correct indexing, so that these can be ignored when applying the key value.
+//Count the number of non-alphabetical characters there have been for correct indexing, so that these can be ignored when applying
+//the key value.
     for (int i = 0, n = strlen(s); i < n; i++)
     {
         int count = 0;
