@@ -1,5 +1,4 @@
-# cs50
-problem sets for Harvard's CS50 course through edX
+# problem sets for Harvard's CS50 course through edX
 --------------------------------------------------
 Problem set specifications:
 
