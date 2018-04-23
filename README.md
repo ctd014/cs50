@@ -8,5 +8,5 @@ pset2: https://docs.cs50.net/2018/x/psets/2/pset2.html
 
 pset3: https://docs.cs50.net/2018/x/psets/3/pset3.html
 
-pset4:
+pset4: https://docs.cs50.net/2018/x/psets/4/pset4.html
 
