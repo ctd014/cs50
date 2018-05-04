@@ -1,4 +1,5 @@
 def main():
+    """Determines the number of coins needed for change"""
     while True:
         change = float(input("Change owed: "))
         if change >= 0:
