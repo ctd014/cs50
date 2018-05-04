@@ -1,4 +1,4 @@
-# problem sets for Harvard's CS50 course through edX
+# selected problem sets for Harvard's CS50 course through edX
 --------------------------------------------------
 Problem set specifications:
 
@@ -10,3 +10,4 @@ pset3: https://docs.cs50.net/2018/x/psets/3/pset3.html
 
 pset4: https://docs.cs50.net/2018/x/psets/4/pset4.html
 
+pset 6: https://docs.cs50.net/2018/x/psets/6/pset6.html
