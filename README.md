@@ -11,3 +11,4 @@ pset3: https://docs.cs50.net/2018/x/psets/3/pset3.html
 pset4: https://docs.cs50.net/2018/x/psets/4/pset4.html
 
 pset 6: https://docs.cs50.net/2018/x/psets/6/pset6.html
+  *these are the same exercises as pset1, but ported to Python
